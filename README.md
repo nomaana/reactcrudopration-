@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+yarn add json-server
+jsonplaceholder.typicode.com
+yarn add concurrently
+"json-server": "json-server --watch db.json --port3003",
+npm run json-server
+npm run start:dev
